@@ -1,7 +1,5 @@
 # DPI INGRESSOS
 
-## [Watch it on YouTube](https://youtu.be/f8ZStoUqNGM)
-
 ### Dashboard Screen
 
 This dashboard page is designed for the dpi ingressos controller and administration
